@@ -6,6 +6,7 @@ body {
     background: #777;
     width: 960px;
     font-size:18px;
+    margin: 0px 250px 0px 250px;
 }
 
 .wrapper {
@@ -40,6 +41,7 @@ header {
     height:200px;
     margin-top:40px;
     margin-left:0;
+
 }
 
 #article {
@@ -52,18 +54,20 @@ header {
     top:275px;
     height:175px;
     color:#ebebeb;
-    width:545px;
+    width:535px;
+    margin: 0px 250px 0px 250px;
 }
 
 #hhh {
     z-index: 10;
     background: #eee;;
     text-align: center;
-    width:41%;
+    width:34%;
     float:left;
     position:absolute;
     left:45px;
     top:350px;
+    margin: 0px 250px 0px 250px;
 
 }
 
@@ -71,11 +75,12 @@ header {
     z-index: 10;
     background:#eee;
     text-align: center;
-    width:41%;
+    width:34%;
     float:left;
     position:absolute;
     left:45px;
     top:400px;
+    margin: 0px 250px 0px 250px;
 
 }
 
